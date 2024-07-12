@@ -1,0 +1,6 @@
+UserID: 7108670625 | Time: 2024-07-12 16:38:33.683216 | Command: /bgmi | Target: 162.62.55.183 | Port: 20001 | Time: 180
+Username: @sohaib_4Gk
+Target: 162.62.55.183
+Port: 20001
+Time: 180
+
